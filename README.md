@@ -7,6 +7,6 @@ Ayudante: Ignacio Coluccio
 Alumno: Lucas Pangaro.  
    lpangaro@frba.utn.edu.ar
 ---
-- CLASES
-- TP INDIVIDUALES
+- CLASES 
+- [TP INDIVIDUALES](https://github.com/lpangaro/my_PdeP/tree/main/TP%20Individuales)
 - TP GRUPALES
